@@ -1,7 +1,7 @@
 ---
 author:
   name: "Hugo Authors"
-date: 2014-03-10
+date: 2023-03-10
 linktitle: Migrating from Jekyll
 title: Mechatronica
 type:
