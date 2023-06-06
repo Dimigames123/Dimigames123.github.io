@@ -24,27 +24,22 @@ Ik heb een paar 3D animaties gemaakt in cinema 4d.
 
 ## 1
 
-
 {{< youtube 8RCz--fBz5k >}}
- https://youtu.be/8RCz--fBz5k
 
 
 ## 2
 
 {{< youtube gFlqrPw2Blk >}}
- https://youtu.be/gFlqrPw2Blk
 
 
  ## 3
 
 {{< youtube DtWHRndfhCg >}}
- https://youtu.be/DtWHRndfhCg
 
 
  ## 4
 
 {{< youtube 1miIL-ryeLI >}}
- https://youtu.be/1miIL-ryeLI
 
 
  ## 5
