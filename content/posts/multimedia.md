@@ -20,3 +20,28 @@ series = ["Hugo 101"]
 
 ## 3D Animeren
 
+Ik heb een paar 3D animaties gemaakt in cinema 4d.
+
+## 1
+
+ https://youtu.be/8RCz--fBz5k
+
+
+## 2
+
+ https://youtu.be/gFlqrPw2Blk
+
+
+ ## 3
+
+ https://youtu.be/DtWHRndfhCg
+
+
+ ## 4
+
+ https://youtu.be/1miIL-ryeLI
+
+
+ ## 5
+
+ https://youtu.be/b9lGB5ju00w
