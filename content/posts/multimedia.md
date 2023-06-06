@@ -18,4 +18,5 @@ series = ["Hugo 101"]
   name = "Hugo Authors"
 +++
 
-## Multimedia
+## 3D Animeren
+
