@@ -72,6 +72,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout submodules
+        uses: rhazdon/hugo-theme-hello-friend-ng
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
