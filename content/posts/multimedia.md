@@ -31,6 +31,8 @@ Ik heb een paar 3D animaties gemaakt in cinema 4d.
 
 {{< youtube gFlqrPw2Blk >}}
 
+![ART](/images/ART.png)
+
 
  ## 3
 
@@ -41,6 +43,8 @@ Ik heb een paar 3D animaties gemaakt in cinema 4d.
 
 {{< youtube 1miIL-ryeLI >}}
 
+
+![BABY](/images/BABY.png)
 
  ## 5
 
