@@ -5,10 +5,10 @@ theme        = "hugo-theme-hello-friend-ng"
 paginate     = 10
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateform        = "Jun 13, 2023"
+  dateformShort   = "Jun 13"
+  dateformNum     = "20023-06-013"
+  dateformNumTime = "20023-06-013 15:04"
 
   # Subtitle for home
   homeSubtitle = "Dimitri's Portfolio"
