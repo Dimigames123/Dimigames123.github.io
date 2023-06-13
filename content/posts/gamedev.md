@@ -3,19 +3,15 @@ title = "GameDev"
 description = ""
 type = ["posts","post"]
 tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
+    "GameDev"
 ]
-date = "2014-04-02"
+date = "2023-06-03"
 categories = [
-    "Development",
-    "golang",
+    "GameDev"
 ]
-series = ["Hugo 101"]
+series = ["Portfollio"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Dimitri"
 +++
 
 ## Level design

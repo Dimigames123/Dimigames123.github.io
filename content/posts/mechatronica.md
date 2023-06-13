@@ -1,15 +1,14 @@
 ---
 author:
   name: "Hugo Authors"
-date: 2023-03-10
+date: 2023-06-6
 linktitle: Migrating from Jekyll
 title: Mechatronica
 type:
-- post
-- posts
+- Mechatronica
 weight: 10
 series:
-- Hugo 101
+- Portfollio
 aliases:
 - /blog/migrate-from-jekyll/
 ---

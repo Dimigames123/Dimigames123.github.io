@@ -3,19 +3,15 @@ title = "Multimedia"
 description = ""
 type = ["posts","post"]
 tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
+    "Multimedia",
 ]
-date = "2014-04-02"
+date = "2023-06-07"
 categories = [
-    "Development",
-    "golang",
+    "Multimedia"
 ]
-series = ["Hugo 101"]
+series = ["Portfolia"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Dimitri"
 +++
 
 

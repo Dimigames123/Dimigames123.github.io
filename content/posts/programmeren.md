@@ -1,7 +1,7 @@
 ---
 author:
   name: "Dimitri van Ooik"
-date: 2023-4-5
+date: 2023-6-9
 linktitle: Creating a New Theme
 type:
 - post
@@ -9,7 +9,7 @@ type:
 title: Progammeren
 weight: 10
 series:
-- Vakken
+- Potfolio
 ---
 
 
