@@ -43,7 +43,6 @@ Ik heb een paar 3D animaties gemaakt in cinema 4d.
 
 {{< youtube 1miIL-ryeLI >}}
 
-
 ![BABY](/images/BABY.png)
 
  ## 5
