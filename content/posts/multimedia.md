@@ -18,23 +18,29 @@ series = ["Hugo 101"]
   name = "Hugo Authors"
 +++
 
-## 3D Animeren
 
-Ik heb een paar 3D animaties gemaakt in cinema 4d.
-
-## 1
+## Cube
+Dit is de eerste 3d animatie die ik heb gemaakt op digibende met cinema4d.
+Het is een simple animatie van een cube met een pulse effect maar het was nog beswel veel werk
 
 {{< youtube 8RCz--fBz5k >}}
 
 
-## 2
+## Lightning
+Dit is de tweede 3d animatie die ik heb gemaakt op digibende met cinema4d.
+Het is een iets lastigere animatie van een lightning effect tussen twee objecten.
 
 {{< youtube gFlqrPw2Blk >}}
 
+## Artistic genius
+Even wat anders tussendoor ik ben ook een teken genie.
+In dit kunstwerk heb ik dus een persoon getekent met een dubelkin.
+
 ![ART](/images/ART.png)
 
-
- ## 3
+ ## Een countdown die van 5 naar 0 afteld maar wel 13 seconden duurt???
+ Ik weet wat je gaat zeggen "wouw Dimitri wat een prachtige naam voor deze animatie je kan zo goed namen bedenken" en dankjewel maar daar gaat het nu niet om.
+ Ik heb deze countdown animatie gemaakt doormiddel van allemaal object naar me kaar toe te trekken in een vorm en weg los te laten het was super veel werk maar wel leuk om te doen.
 
 {{< youtube DtWHRndfhCg >}}
 
