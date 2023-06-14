@@ -39,7 +39,7 @@ In dit kunstwerk heb ik dus een persoon getekent met een dubelkin.
 
  ## Een countdown die van 5 naar 0 afteld maar wel 13 seconden duurt???
  Ik weet wat je gaat zeggen "wouw Dimitri wat een prachtige naam voor deze animatie je kan zo goed namen bedenken" en dankjewel maar daar gaat het nu niet om.
- Ik heb deze countdown animatie gemaakt doormiddel van allemaal object naar me kaar toe te trekken in een vorm en weg los te laten het was super veel werk maar wel leuk om te doen.
+ Ik heb deze countdown animatie gemaakt doormiddel van allemaal objecten naar me kaar toe te trekken in een vorm en dan los te laten het was super veel werk maar wel leuk om te doen.
 
 
 {{< youtube DtWHRndfhCg >}}
@@ -47,7 +47,7 @@ In dit kunstwerk heb ik dus een persoon getekent met een dubelkin.
 
  ## Digibende Sport intro
  Een andere kandidaat bij digibende was een promotie video aan het maken voor sport.
- Hij heeft mij gevraagt om een intro animatie te maken waarin digibende loge veranderd naar sport.
+ Hij heeft mij gevraagt om een intro animatie te maken waarin het digibende logo veranderd naar sport.
  Nadat ik heel veel dingen heb geprobeerd en heel veel uren heb besteed eraan hier is het resultaat
 
 
@@ -59,8 +59,8 @@ Hallo teken genie Dimitri weer hier ik heb nog een prachtig kunstwerk gemaakt, a
 
 ![BABY](/images/BABY.png)
 
- ## Een ball en blok
- In deze animatie komt er een ball die in een blok vliegt en ze gaan beiden kapot de stukjes animeren en laten werken was super veel werk maar ik ben blij met de uitkomst
+ ## Een bal en blok
+ In deze animatie komt er een bal die in een blok vliegt en ze gaan beiden kapot de stukjes animeren en laten werken was super veel werk maar ik ben blij met de uitkomst
 
 
  {{< youtube b9lGB5ju00w >}}
