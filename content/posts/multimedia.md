@@ -44,6 +44,8 @@ In dit kunstwerk heb ik dus een persoon getekent met een dubelkin.
 
 {{< youtube DtWHRndfhCg >}}
 
+{{< youtube 59RpVBfAhD8 >}}
+
 
  ## Digibende Sport intro
  Een andere kandidaat bij digibende was een promotie video aan het maken voor sport.
