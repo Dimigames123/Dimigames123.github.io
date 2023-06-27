@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "20023-06-013 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Dimitri's Portfolio"
+  homeSubtitle = "(De spellfouten zijn express......)"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
