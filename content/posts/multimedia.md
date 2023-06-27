@@ -21,7 +21,7 @@ Het is een simple animatie van een cube met een pulse effect maar het was nog be
 
 
 {{< youtube 8RCz--fBz5k >}}
-
+{{< youtube hgLNWJxWFAU >}}
 
 ## Lightning
 Dit is de tweede 3d animatie die ik heb gemaakt op digibende met cinema4d.
@@ -54,6 +54,7 @@ In dit kunstwerk heb ik dus een persoon getekent met een dubelkin.
 
 
 {{< youtube 1miIL-ryeLI >}}
+{{< youtube P8bAsn0Pr9Y >}}
 
 
 ## Een appart beest
