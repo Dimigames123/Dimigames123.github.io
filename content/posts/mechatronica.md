@@ -59,7 +59,10 @@ Ik heb hier geleerd hoe een servo motor en een potentiometer werkt.
 ![project4a](/images/project_4_a.png)
 ![project4b](/images/project_4_b.png)
 
+---
+
 * Project 5 Grasmaaier
+  
   Dit project was heel anders ik had een kapotte grasmaaier thuis liggen dus ik ging kijken wat er kapot was en kijken of ik het kon repareren.
 	Ik begon met de grasmaaier uit mekaar te halen en kijken wat er kapot was 
 	Toen kwam er dus achter dat ik het probleem in de kabel en schakelaar lach 
